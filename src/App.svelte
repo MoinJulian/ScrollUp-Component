@@ -6,6 +6,10 @@
 
 <main>
   <h1>Scroll Up Component in Svelte</h1>
+  <a
+    href="https://github.com/MoinJulian/ScrollUp-Component/blob/main/src/lib/components/ScrollUp.svelte"
+    class="error">You can copy the ScrollUp Component Code here.</a
+  >
   <p>
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam
     molestias animi quas! Delectus a officia reprehenderit optio tenetur, totam
