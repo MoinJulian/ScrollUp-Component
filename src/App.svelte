@@ -10,6 +10,11 @@
     href="https://github.com/MoinJulian/ScrollUp-Component/blob/main/src/lib/components/ScrollUp.svelte"
     class="error">You can copy the ScrollUp Component Code here.</a
   >
+  <p class="success">Ths is just an demonstartion how it works:</p>
+  <p>
+    Scroll to the bottom of the page and scroll a bit up again, you will see a
+    little arrow in th right corner, click on it and you will be Scrolled up.
+  </p>
   <p>
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam
     molestias animi quas! Delectus a officia reprehenderit optio tenetur, totam
