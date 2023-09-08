@@ -14,7 +14,7 @@
     href="https://github.com/MoinJulian/ScrollUp-Component/blob/main/src/lib/components/ScrollUp%20for%20SvelteKit.svelte"
     class="error">You can find the Component for SvelteKit here.</a
   >
-  <p class="success">Ths is just an demonstartion how it works:</p>
+  <p class="success">This is just an demonstartion how it works:</p>
   <p>
     Scroll to the bottom of the page and scroll a bit up again, you will see a
     little arrow in th right corner, click on it and you will be Scrolled up.
